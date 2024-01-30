@@ -17,3 +17,8 @@ code {
   margin: 0 auto;
   max-width: 800px;
 }
+.Example2{
+  color: red;
+  border-radius: 50%;
+  border-color: brown solid;
+}
